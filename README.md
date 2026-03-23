@@ -82,7 +82,7 @@ $to.update;
 Description
 ----------
 FDF (Form Data Format) is a format for storing form data and formatting or
-annotations seperately from PDF files.
+annotations separately from PDF files.
 
 
 Bugs and Limitations

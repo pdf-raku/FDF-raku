@@ -72,7 +72,7 @@ class FDF::Field::APDict $.AP (appearance)
 
 (Optional) An appearance dictionary specifying the appearance of a pushbutton field. The appearance dictionary’s contents are as shown in Table 8.19 on page 614, except that the values of the N, R, and D entries must all be streams.
 
-class FDF::Field::APRefDict $.ApRef (appearance-ref)
+class FDF::Field::APRefDict $.APRef (appearance-ref)
 ----------------------------------------------------
 
 (Optional; PDF 1.3) A dictionary holding references to external PDF files containing the pages to use for the appearances of a pushbutton field. This dictionary is similar to an appearance dictionary, except that the values of the N,R and D entries must all be named page reference dictionaries. This entry is ignored if an AP entry is present.
